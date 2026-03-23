@@ -579,13 +579,13 @@ See the full [LICENSE](./LICENSE) file for details.
 
 ## Author
 
-**Nikhil**
+**Nikhil** : 
 Backend Developer | Node.js Enthusiast
 
 Building structured learning resources for the next generation of backend engineers.
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat-square&logo=github)](https://github.com/nikhilcoder1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nikhil-pandey-b428702b6)
+[![GitHub](https://img.shields.io/badge/GitHub-nikhilcoder1?style=flat-square&logo=github)](https://github.com/nikhilcoder1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhil-pandey-b428702b6?style=flat-square&logo=linkedin)](https://linkedin.com/in/nikhil-pandey-b428702b6)
 
 ---
 
